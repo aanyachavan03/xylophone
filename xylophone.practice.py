@@ -4,7 +4,7 @@ import sys
 pygame.init()
 
 # Screen setup
-width, height = 800, 400
+width, height = 1000, 300
 screen = pygame.display.set_mode((width, height))
 pygame.display.set_caption("Xylophone")
 
